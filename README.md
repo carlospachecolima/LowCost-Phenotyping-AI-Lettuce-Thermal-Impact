@@ -91,6 +91,8 @@ Fábio Akiyoshi Suinaga
 PhD in Genetics and Breeding
 Institution: Embrapa Vegetables
 Address: Brasília, Federal District, Brazil
+Productivity Fellow in Technological Development and Innovative Extension –
+CNPq/Level 2
 E-mail: fabio.suinaga@embrapa.br
 
 Juscimar da Silva
