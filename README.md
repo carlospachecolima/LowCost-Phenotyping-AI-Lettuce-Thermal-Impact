@@ -101,6 +101,11 @@ Institution: Embrapa Vegetables
 Address: Brasília, Federal District, Brazil
 E-mail: juscimar.silva@embrapa.br
 
+Marcos Brandão Braga
+PhD in Irrigation and Drainage
+Institution: Embrapa Vegetables
+Address: Brasília, Federal District, Brazil
+E-mail: marcos.braga@embrapa.br
 
 - [License BSD-3 Clause](./LICENSE)
 
